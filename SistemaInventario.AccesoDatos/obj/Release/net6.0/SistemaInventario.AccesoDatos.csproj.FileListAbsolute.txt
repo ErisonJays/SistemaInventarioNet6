@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.AccesoDatos.deps.json
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.AccesoDatos.dll
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.Modelos.dll
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.Utilidades.dll
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.Modelos.pdb
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\bin\Release\net6.0\SistemaInventario.Utilidades.pdb
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.dll
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\refint\SistemaInventario.AccesoDatos.dll
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\SistemaInventario.AccesoDatos.pdb
+C:\Users\DELL\source\repos\SistemaInventarioNet6\SistemaInventario.AccesoDatos\obj\Release\net6.0\ref\SistemaInventario.AccesoDatos.dll
