@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1dMib+rQs6bZKhYiOTm5v4b5uoc4dzVYKg+09OKtHgk=",
+  "Hash": "aOi3jk/V3S073p/PTwaA+Z9RE5XiA6Vs5tlQfja53yc=",
   "Source": "SistemaInventarioNet6",
   "BasePath": "_content/SistemaInventarioNet6",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventarioNet6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioNet6",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\js\\site.js",
