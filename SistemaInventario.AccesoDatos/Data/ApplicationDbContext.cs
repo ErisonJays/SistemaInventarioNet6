@@ -14,6 +14,8 @@ namespace SistemaInventarioNet6.AccesoDatos.Data
 
         public DbSet<Bodega> Bodegas { get; set; } // Bodega es el nombre del modelo y Bodegas es como se va a guardar en la base de datos
 
+        public DbSet<Categoria> Categorias { get; set; }
+
         //creamos un override a un metodo que ya existe para usar Fluent API
 
         protected override void OnModelCreating(ModelBuilder builder)

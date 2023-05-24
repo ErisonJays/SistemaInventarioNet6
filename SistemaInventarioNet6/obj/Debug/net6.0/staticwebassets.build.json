@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aOi3jk/V3S073p/PTwaA+Z9RE5XiA6Vs5tlQfja53yc=",
+  "Hash": "a7YBJhyrdWJUQoDFXBFTtjwg6cZGvLnbUVOnyAryGhc=",
   "Source": "SistemaInventarioNet6",
   "BasePath": "_content/SistemaInventarioNet6",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventarioNet6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioNet6",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\DELL\\source\\repos\\SistemaInventarioNet6\\SistemaInventarioNet6\\wwwroot\\js\\site.js",
