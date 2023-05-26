@@ -16,6 +16,8 @@ namespace SistemaInventarioNet6.AccesoDatos.Data
 
         public DbSet<Categoria> Categorias { get; set; }
 
+        public DbSet<Marca> Marcas { get; set; }
+
         //creamos un override a un metodo que ya existe para usar Fluent API
 
         protected override void OnModelCreating(ModelBuilder builder)
